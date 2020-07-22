@@ -1,5 +1,6 @@
 # Updating ...
-# Video Object Segmentation: VOS Paper List
+
+# Video Object Segmentation Paper List
 
 ## Benchmark Results
 
